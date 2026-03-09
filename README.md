@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Verma</h1>
+<h1 align="center">Hi 👋, I'm Ujjawal Verma</h1>
 <h3 align="center">🚀 Full Stack Developer | 🤖 GenAI Enthusiast | 💻 Building AI Powered Web Apps</h3>
 
 <p align="center">
