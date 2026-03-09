@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Verma</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🤖 GenAI Enthusiast | 💻 Building AI Powered Web Apps</h3>
+<h3 align="center">🚀 Full Stack Developer | 🤖 GenAI Enthusiast | 💻 Building AI Powered Web Apps</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;GenAI+Engineer;LangChain+Developer;Building+AI+Projects"/>
@@ -67,7 +67,7 @@ Full responsive web application.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Ujjawal023&theme=tokyonight" />
 </p>
 
 ---
