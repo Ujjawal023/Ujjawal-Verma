@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Choudhary</h1>
+<h1 align="center">Hi 👋, I'm Ujjwal Verma</h1>
 <h3 align="center">🚀 MERN Stack Developer | 🤖 GenAI Enthusiast | 💻 Building AI Powered Web Apps</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 # 👨‍💻 About Me
 
 - 🎓 B.Tech Student at **Raj Kumar Goyal Institute of Technology**
-- 💻 Full Stack Developer (MERN Stack)
+- 💻 Full Stack Developer
 - 🤖 Working with **GenAI, LangChain & RAG**
 - 🚀 Passionate about building **AI powered web applications**
 - 🎯 Goal: Become a **GenAI Engineer**
@@ -39,19 +39,19 @@
 
 # 🚀 Featured Projects
 
-⭐ **AI Finance Assistant**  
-Smart AI tool that helps users manage financial decisions.
-
 ⭐ **RAG Document Chat System**  
 Chat with documents using LangChain & LLM.
 
-⭐ **Virtual Assistant (React)**  
+⭐ **AI Finance Assistant**  
+Smart AI tool that helps users manage financial decisions.
+
+⭐ **AI Virtual Assistant (React)**  
 Voice-based assistant built with React.
 
 ⭐ **Helmet Detection System**  
 AI based traffic safety system.
 
-⭐ **Food Website**  
+⭐ **Responsive Food Website**  
 Full responsive web application.
 
 ---
@@ -59,7 +59,7 @@ Full responsive web application.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ujjawal023&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ Full responsive web application.
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjawal023&theme=react-dark"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@ Full responsive web application.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ujjawal023&theme=algolia" />
 </p>
 
 ---
@@ -99,17 +99,17 @@ Full responsive web application.
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Ujjawal023&color=blue"/>
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: Your LinkedIn link
+- 💼 LinkedIn: (https://www.linkedin.com/in/choudhary-ujjawal-verma-9b649828a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🌐 Portfolio: Your Portfolio website
-- 📧 Email: your-email@gmail.com
+- 📧 Email: ujjawalchoudharyy@gmail.com
 
 ---
 
-⭐ From [Ujjwal Choudhary](https://github.com/YOUR_USERNAME)
+⭐ From [UJJAWAL VERMA](https://github.com/Ujjawal023)
